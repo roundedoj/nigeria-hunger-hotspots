@@ -1,0 +1,29 @@
+{
+  "name": "HungerHotspots",
+  "dataColors": ["#3F7D4E", "#17252A", "#9BBAA0", "#A9AEAD", "#DBE6DA", "#566062"],
+  "background": "#F7F8F3",
+  "foreground": "#17252A",
+  "tableAccent": "#3F7D4E",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Outfit Semibold",
+      "color": "#3F7D4E"
+    },
+    "title": {
+      "fontSize": 11,
+      "fontFace": "Outfit Semibold",
+      "color": "#17252A"
+    },
+    "header": {
+      "fontSize": 9,
+      "fontFace": "Outfit Semibold",
+      "color": "#17252A"
+    },
+    "label": {
+      "fontSize": 9,
+      "fontFace": "Outfit",
+      "color": "#17252A"
+    }
+  }
+}
