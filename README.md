@@ -2,6 +2,8 @@
 
 *36 states and the Federal Capital Territory. 2011 to 2024.*
 
+**Next project:** [Predicting Hunger in Nigeria](https://github.com/roundedoj/predicting-hunger-nigeria): can machine learning predict these crises?
+
 ![Report page 1](images/page-1.png)
 
 **The question.** Where is hunger in Nigeria worst, where does it last, and where can't we see it?
